@@ -4,7 +4,7 @@
 // import { DB_NAME } from "./constants";
 import connectDB from "./db/index.js";
 import dotenv from "dotenv";
-import app from "./app.js";
+import {app} from "./app.js";
 // import express from 'express';
 // const app = express();
 
